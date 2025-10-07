@@ -1,4 +1,5 @@
 ``mermaid 
+
 classDiagram
     %% Classe abstrata base
     class AbstractEntity {
